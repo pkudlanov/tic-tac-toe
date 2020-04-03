@@ -1,8 +1,8 @@
-# tic-tack-toe
+# tic-tac-toe
 
 ## About
 
-Tic tack toe game written in python and playable in the command line interface.
+Tic tac toe game written in python and playable in the command line interface.
 
 ## Rules
 
