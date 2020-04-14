@@ -30,7 +30,7 @@ def place_marker(board, marker, position):
     board[position] = marker.upper()
 
 
-def win_check(baord, marker):
+def win_check(board, marker):
     win_conditions = [
         [0, 1, 2], [3, 4, 5], [6, 7, 8],
         [0, 3, 6], [1, 4, 7], [2, 5, 8],
